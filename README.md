@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmet Cevdet Bülbül</h1>
 <h3 align="center">Senior Electrical-Electronics & Computer Engineering Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetcevdetbulbul&label=Profile%20views&color=0e75b6&style=flat" alt="ahmetcevdetbulbul" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmetcevdetbulbul" alt="ahmetcevdetbulbul" /></a> </p>
-
 - 📫 How to reach me **bulbulahmetcevdet@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
